@@ -1,0 +1,14 @@
+{
+ "Rankings_File": "seed.txt",
+ "Tournament_Names": [
+  "NationalChampionshipSeries",
+  "EasternChampionshipSeries",
+  "CentralChampionshipSeries",
+  "WesternChampionship"
+ ],
+ "Bans_File": "bans.txt",
+ "Subdomains": [
+  "narivals",
+  ""
+ ]
+}
